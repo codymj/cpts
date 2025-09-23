@@ -1,2 +1,3 @@
-# cpts
-Notes for HTB CPTS exam.
+# Certified Penetration Testing Specialist
+
+Notes for HackTheBox's Certified Penetration Testing Specialist exam.
